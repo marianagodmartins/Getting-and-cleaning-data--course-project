@@ -19,4 +19,4 @@ run_analysis.R contains all the code to perform the analyses described in the 5 
   
     5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-tidyData.txt is the output of the final step
+FinalData.txt is the output of the final step, and it is the tidy dataset final
